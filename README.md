@@ -9,7 +9,6 @@ This repository presents a comprehensive data analysis case study focused on und
 
 ### Tools & Techniques
 - **Python** for data transformation and statistical analysis
-- **SQL** for data handling
 - **Matplotlib, Seaborn, Scipy** for EDA and hypothesis testing
 - **Power BI** for creating interactive visual dashboards
 
